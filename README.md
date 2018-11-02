@@ -1,6 +1,6 @@
 # Use
-`make`
-`./h2 [length]`
+1. `make`
+2. `./h2 [length]`
 
 # Others
 1. This is only a keystream generator. Encryption part is not implemented.
